@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mobileshop"
+  id="myeclipse.1449906801576"
+  context-root="/mobileshop"
+  j2ee-spec="5.0"
+  archive="mobileshop.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
